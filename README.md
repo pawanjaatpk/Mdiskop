@@ -15,4 +15,4 @@
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Channel-Mdisk-Converter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pawanjaatpk/Channel-Mdisk-Converter)
