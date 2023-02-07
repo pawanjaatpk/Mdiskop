@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+MDISK+BULK+POST+CONVERTER!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+MDISK+BULK+POST+CONVERTER!;CREATED+BY+TECHNICAL+Expertbotz!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
@@ -6,7 +6,7 @@
   <b>Channel-Mdisk-Converter</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Expertbotz](t.me/Expertbotz)
 
 ## Credits 
 
@@ -15,4 +15,4 @@
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pawanjaatpk/Channel-Mdisk-Converter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pawanjaatpk/Mdiskop)
